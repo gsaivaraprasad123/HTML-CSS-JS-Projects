@@ -9,9 +9,6 @@ This repository is a testament to the versatility and power of JavaScript. It ho
 What You'll Find Here
 Inside this repository, you'll encounter a variety of JavaScript projects, each designed to address specific challenges and demonstrate the capabilities of the language. These projects are not only functional but also educational, offering a glimpse into the inner workings of JavaScript.
 
-Getting Started
-To dive into any of these projects, simply navigate to the project's directory and consult the provided README files. There, you'll find detailed instructions on how to run the project, explore its features, and even contribute to its development.
-
 Your Feedback Matters
 Your feedback and contributions are highly valued. If you have suggestions, ideas, or bug reports, please don't hesitate to open an issue or submit a pull request. Your involvement can help enhance and improve these projects for the benefit of the entire community.
 
